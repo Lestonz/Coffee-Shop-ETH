@@ -1,0 +1,6 @@
+module Pods_coffee_coffeeTests {
+  umbrella header "Pods-coffee-coffeeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
